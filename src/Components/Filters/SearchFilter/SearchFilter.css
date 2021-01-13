@@ -1,0 +1,8 @@
+.search-filter__input {
+  border: 1px solid lightgray;
+  height: 30px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+}

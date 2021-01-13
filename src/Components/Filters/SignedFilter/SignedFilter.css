@@ -1,0 +1,19 @@
+.signed-filter__container {
+  display: flex;
+  border: 1px solid lightgray;
+  width: max-content;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.signed-filter__button {
+  padding: 15px;
+  background-color: lightgray;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signed-filter__button_active {
+  background-color: green;
+}

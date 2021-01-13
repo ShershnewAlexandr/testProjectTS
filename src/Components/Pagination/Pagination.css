@@ -1,0 +1,16 @@
+.pagination__container {
+  margin: 20px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination__button {
+  width: 80px;
+  height: 30px;
+  margin: 0 20px;
+}
+
+.pagination__button_disabled {
+  opacity: 0.5;
+}
